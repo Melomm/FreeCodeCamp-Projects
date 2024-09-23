@@ -14,10 +14,10 @@ Este repositório possui os projetos de análise que fiz para o curso de Anális
 
 * Objetivo: Visualizar e fazer cálculos a partir de dados de exames médicos utilizando matplotlib, seaborn e pandas. Os valores do dataset foram coletados durante exames médicos, e esses dados foram usados para explorar a relação entre doenças cardíacas, medidas corporais, marcadores sanguíneos e escolhas de estilo de vida.
 * Script Python: `medical_data_visualizer.py`
-* Gráfico de barras categóricas (catplot.png): Um gráfico de barras comparando as características categóricas entre pacientes com valores de 'cardio' de 0 (ausência de doença cardiovascular) e 1 (presença de doença cardiovascular).  
+* Gráfico de barras categóricas (grafico_categorico.png): Um gráfico de barras comparando as características categóricas entre pacientes com valores de 'cardio' de 0 (ausência de doença cardiovascular) e 1 (presença de doença cardiovascular).  
 <img src="Medical Data\Graficos\grafico_categorico.png" alt="Categorico" />
 
-* Mapa de calor de correlação (heatmap.png): Uma matriz triangular que utiliza cores para visualizar a correlação entre variáveis de dados médicos.  
+* Mapa de calor de correlação (mapa_de_calor.png): Uma matriz triangular que utiliza cores para visualizar a correlação entre variáveis de dados médicos.  
 <img src="Medical Data\Graficos\mapa_de_calor.png" alt="Mapa de Calor" />
 
 **4. Visualizador de Séries Temporais de Visualizações de Página**
